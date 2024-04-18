@@ -1,3 +1,6 @@
+### Архитектурные нейронные сети на PyTorch. Они фокусируются на преобразовании и синтезе изображений
+
+
 import numpy as np
 import torch
 from torch import nn

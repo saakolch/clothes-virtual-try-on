@@ -1,3 +1,6 @@
+### PyTorch, Pillow, и torchvision для выполнения сегментации изображений одежды с использованием предобученной модели U2NET
+
+
 import os
 from PIL import Image
 import numpy as np

@@ -1,3 +1,6 @@
+### Flask для веб-приложения и загрузки двух изображений (одежда, модель) на сервер
+
+
 from flask import Flask, request, jsonify, render_template
 from PIL import Image
 import requests

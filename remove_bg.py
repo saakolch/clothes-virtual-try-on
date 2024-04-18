@@ -1,3 +1,6 @@
+### Удаление фона и изменения размера
+
+
 import requests
 import os
 from PIL import Image
